@@ -37,3 +37,13 @@ db.sequelize.sync().then(function() {
     console.log("App listening on PORT " + PORT);
   });
 });
+
+
+// {
+//   "development": {
+//     "username": "l9tgj7crqudyoxrf",
+//     "password": "exysy5alhvkl6nrn",
+//     "database": "flags_for_cities_db",
+//     "host": "thh2lzgakldp794r.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+//     "dialect": "mysql"
+//   },
